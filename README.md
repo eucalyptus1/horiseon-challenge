@@ -15,3 +15,5 @@ https://eucalyptus1.github.io/horiseon-challenge/
 
 ## Contribution
 Refactored by James
+
+![screenshot](./assets/screenshot.png)
