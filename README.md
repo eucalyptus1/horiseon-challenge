@@ -8,6 +8,7 @@ To both refactor the code of their main page to ensure it itself is accessible f
 
 ## Built with
 *HTML
+
 *CSS
 
 ## Website
@@ -15,6 +16,7 @@ https://eucalyptus1.github.io/horiseon-challenge/
 
 ## Contribution
 Refactored by James
+
 &copy 2019 Horiseon Social Solution Services, Inc.
 
 ![screenshot](./assets/screenshot.png)
